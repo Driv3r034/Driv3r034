@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in work with code
-- 🌱 I’m currently learning JavaScript, React, TypeScript, NextJS
+- 🌱 I’m currently learning JavaScript, React, TypeScript
 - 💞️ I love to treveling on motorcycle and do sport
 
 <!---
