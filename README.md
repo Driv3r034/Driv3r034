@@ -7,6 +7,9 @@
   <a href="https://github.com/Driv3r034">
     <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub">
   </a>
+    <a href="https://t.me/SergeiK_81">
+    <img src="https://img.shields.io/badge/Telegram-030712?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram">
+  </a>
 </p>
 
 ## 👋 Hi, I'm Sergei
@@ -24,12 +27,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Driv3r034&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driv3r034&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
 
 ### 🔗 Connect with me
 
