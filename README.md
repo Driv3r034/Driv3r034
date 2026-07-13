@@ -1,14 +1,13 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="GitHub Profile Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img src="./light.svg" alt="Sergey — Frontend Developer">
 </picture>
 
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/Driv3r034">
+    <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub">
+  </a>
+</p>
 
 ## 👋 Hi, I'm Sergei
 
