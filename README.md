@@ -1,3 +1,5 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
@@ -8,7 +10,7 @@
 
 ---
 
-## 👋 Hi, I'm Sergey
+## 👋 Hi, I'm Sergei
 
 - 👀 Interested in coding and building stuff
 - 🌱 Stack: **JS, TS, React, RTK, React Query, NextJS, Webpack**
@@ -33,4 +35,3 @@
 ### 🔗 Connect with me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Driv3r034)
-'''
