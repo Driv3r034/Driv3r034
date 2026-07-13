@@ -1,6 +1,3 @@
-
-readme_content = '''<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
@@ -37,8 +34,3 @@ readme_content = '''<div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Driv3r034)
 '''
-
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md saved")
