@@ -152,7 +152,7 @@
       <circle cx="496" cy="93" r="5" fill="#ef4444"/><circle cx="516" cy="93" r="5" fill="#eab308"/><circle cx="536" cy="93" r="5" fill="#22c55e"/>
       <text x="806" y="97" fill="#94A3B8" font-size="12" text-anchor="middle" letter-spacing="1">sergey — zsh</text>
 
-      <text x="504" y="158" fill="#F8FAFC" font-size="26" font-weight="700">Hi <tspan font-size="24">👋</tspan> I'm <tspan fill="url(#accent)">Sergey</tspan></text>
+      <text x="504" y="158" fill="#F8FAFC" font-size="26" font-weight="700">Hi <tspan font-size="24">👋</tspan> I'm <tspan fill="url(#accent)">Sergei</tspan></text>
 
       <g font-size="17">
         <text x="504" y="192" fill="#94A3B8">$ role:</text>
