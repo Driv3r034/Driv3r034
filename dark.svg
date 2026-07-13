@@ -103,7 +103,7 @@
       <rect x="40" y="70" width="360" height="470" rx="18" fill="#0F172A" fill-opacity="0.55" stroke="rgba(255,255,255,0.08)"/>
       <rect x="40" y="70" width="360" height="46" rx="18" fill="#0F172A" fill-opacity="0.6"/>
       <circle cx="66" cy="93" r="5" fill="#ef4444"/><circle cx="86" cy="93" r="5" fill="#eab308"/><circle cx="106" cy="93" r="5" fill="#22c55e"/>
-      <text x="200" y="97" fill="#94A3B8" font-size="12" text-anchor="middle" letter-spacing="1">~/sergey.dev</text>
+      <text x="200" y="97" fill="#94A3B8" font-size="12" text-anchor="middle" letter-spacing="1">~/sergei.dev</text>
 
       <g clip-path="url(#asciiClip)">
         <g fill="url(#asciiGrad)" font-size="12.5" filter="url(#softGlow)" letter-spacing="0.5">
@@ -128,7 +128,7 @@
             <text x="66" y="422">       (o)--(o)--(o)</text>
             <text x="66" y="439">          \\  |  /</text>
             <text x="66" y="456">         [ FRONTEND ]</text>
-            <text x="66" y="473">         &lt;SERGEY/&gt;</text>
+            <text x="66" y="473">         &lt;SERGEI/&gt;</text>
           </g>
         </g>
         <g fill="#10B981">
@@ -150,7 +150,7 @@
       <rect x="470" y="70" width="672" height="470" rx="18" fill="#0F172A" fill-opacity="0.6" stroke="rgba(255,255,255,0.08)"/>
       <rect x="470" y="70" width="672" height="46" rx="18" fill="#0F172A" fill-opacity="0.7"/>
       <circle cx="496" cy="93" r="5" fill="#ef4444"/><circle cx="516" cy="93" r="5" fill="#eab308"/><circle cx="536" cy="93" r="5" fill="#22c55e"/>
-      <text x="806" y="97" fill="#94A3B8" font-size="12" text-anchor="middle" letter-spacing="1">sergey — zsh</text>
+      <text x="806" y="97" fill="#94A3B8" font-size="12" text-anchor="middle" letter-spacing="1">sergei — zsh</text>
 
       <text x="504" y="158" fill="#F8FAFC" font-size="26" font-weight="700">Hi <tspan font-size="24">👋</tspan> I'm <tspan fill="url(#accent)">Sergei</tspan></text>
 
